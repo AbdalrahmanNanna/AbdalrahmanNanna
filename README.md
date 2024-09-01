@@ -27,6 +27,7 @@ I Speak Arabic, English, and French
 📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
 
 I'm committed to crafting innovative solutions, safeguarding the digital domain, and actively contributing to open-source projects. I'm passionate about delving deeply into code and bringing imaginative ideas to life. Let's collaborate and create something extraordinary together!
+📌I'm not the only one but I'm the best
 
 </h3>
 
