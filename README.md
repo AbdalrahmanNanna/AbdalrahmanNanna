@@ -22,7 +22,7 @@
 
 <div align="center"> <h3 align="center"> 
 Hello, I'm Abdalrahman Osman (Nanna)
-I Speak Arabic, English, and Turkish
+I Speak Arabic, English, and French
 
 📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
 
@@ -35,14 +35,11 @@ I'm committed to crafting innovative solutions, safeguarding the digital domain,
 <div align="center"> <h1 align="center"> 🔗 Social Links </h1> </div>
 
 <div align="center">
-  <a href="https://github.com/wickstudio"><img src="https://imgur.com/3ODU5lj.png" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/officialwickstudio"><img src="https://imgur.com/n2oyhCP.png" alt="Instagram" /></a>
-  <a href="https://www.npmjs.com/~wick_studio"><img src="https://imgur.com/rVt9huZ.png" alt="NPM" /></a>
-  <a href="https://replit.com/@wickstudio"><img src="https://imgur.com/RkgoVR3.png" alt="Replit" /></a>
-  <a href="https://t.me/wickdev"><img src="https://imgur.com/6Y6wmmg.png" alt="Telegram" /></a>
-  <a href="https://x.com/Wick__Studio"><img src="https://imgur.com/1jPpy8l.png" alt="X / Twitter" /></a>
-  <a href="https://www.youtube.com/@wick_studio"><img src="https://imgur.com/uYQleGv.png" alt="Youtube" /></a>
-  <a href="https://discord.gg/wicks"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
+  <a href="https://github.com/AbdalrahmanNanna"><img src="https://imgur.com/3ODU5lj.png" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/abdo_osman74/"><img src="https://imgur.com/n2oyhCP.png" alt="Instagram" /></a>
+  <a href="https://t.me/Nannadev"><img src="https://imgur.com/6Y6wmmg.png" alt="Telegram" /></a>
+  <a href="https://www.youtube.com/@Nanna-Technology"><img src="https://imgur.com/uYQleGv.png" alt="Youtube" /></a>
+  <a href="https://discord.gg/ab9NnhR2B4"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
 </div>
 
 <div align="center"> <h1 align="center"> 😎 Noteable Projects </h1> </div>
