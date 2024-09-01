@@ -45,18 +45,18 @@ I'm committed to crafting innovative solutions, safeguarding the digital domain,
 <div align="center"> <h1 align="center"> 😎 Noteable Projects </h1> </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-ai-chatbot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/discord-ai-chatbot" alt="Discord AI Chatbot" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=System-Information&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/System-Information" alt="System Information" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Web-Cloner&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Web Cloner" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=IPExplorer&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="IPExplorer" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Discord-Avatar-Decoration-Bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/System-Information" alt="Discord Avatar Decoration Bot" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=cleanup-tool&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Cleanup Tool" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-protection-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/discord-protection-bot" alt="Discord Protection Bot" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-moderator-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/discord-moderator-bot" alt="Discord Moderator Bot" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nannadev&repo=discord-ai-chatbot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/Nannadev/discord-ai-chatbot" alt="Discord AI Chatbot" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nannadev&repo=System-Information&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/Nannadev/System-Information" alt="System Information" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nannadev&repo=Web-Cloner&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Web Cloner" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nannadev&repo=IPExplorer&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="IPExplorer" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nannadev&repo=Discord-Avatar-Decoration-Bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/Nannadev/System-Information" alt="Discord Avatar Decoration Bot" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nannadev&repo=cleanup-tool&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Cleanup Tool" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nannadev&repo=discord-protection-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/Nannadev/discord-protection-bot" alt="Discord Protection Bot" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nannadev&repo=discord-moderator-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/Nannadev/discord-moderator-bot" alt="Discord Moderator Bot" />
 </div>
 
 <div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wickstudio&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanOsman&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Statistics" />
 </div>
