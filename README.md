@@ -44,10 +44,7 @@ I'm committed to crafting innovative solutions, safeguarding the digital domain,
   <a href="https://discord.gg/ab9NnhR2B4"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
 </div>
 
-<div align="center"> <h1 align="center"> 😎 Noteable Projects </h1> </div>
 
-<div align="center"> <h1 align="center"> 📢 None </h1> </div>
-</div>
 
 <div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
 
