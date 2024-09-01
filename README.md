@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/undefined" alt="My GitHub stats" style="width: 50%;" />
+  <img src="https://imgur.com/khpDPwR.png" alt="My GitHub stats" style="width: 50%;" />
 </p>
 
 <div align="center"> <h1 align="center"> 🛠 Language & Tools </h1> </div>
