@@ -46,15 +46,7 @@ I'm committed to crafting innovative solutions, safeguarding the digital domain,
 
 <div align="center"> <h1 align="center"> 😎 Noteable Projects </h1> </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-ai-chatbot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/discord-ai-chatbot" alt="Discord AI Chatbot" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=System-Information&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/System-Information" alt="System Information" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Web-Cloner&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Web Cloner" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=IPExplorer&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="IPExplorer" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Discord-Avatar-Decoration-Bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/System-Information" alt="Discord Avatar Decoration Bot" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=cleanup-tool&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Cleanup Tool" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-protection-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/discord-protection-bot" alt="Discord Protection Bot" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-moderator-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/discord-moderator-bot" alt="Discord Moderator Bot" />
+<div align="center"> <h1 align="center"> 📢 None </h1> </div>
 </div>
 
 <div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
