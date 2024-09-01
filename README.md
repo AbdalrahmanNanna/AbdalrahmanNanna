@@ -21,7 +21,7 @@
 <div align="center"> <h1 align="center"> 👋 About Me </h1> </div>
 
 <div align="center"> <h3 align="center"> 
-Hello, I'm Wick!
+Hello, I'm Abdalrahman Osman (Nanna)
 I Speak Arabic, English, and Turkish
 
 📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
